@@ -39,7 +39,7 @@ I could use some help with building accessible user experiences in web and mobil
 
 ### 📫 How to reach me...
 
-You can email me at nickolas [at] knicklabs [dot] com. If you know me, you can also call me, send me a text, or chat with me on Slack. My working hours are 9AM-6PM ET Monday-Friday and you should not expect me to reply outside those times.
+You can email me at nickolas [at] knicklabs [dot] com. If you know me, you can also call me, send me a text, or chat with me on Slack. My working hours are 9AM-6PM ET Monday-Friday.
 
 ### 😄 Pronouns...
 
