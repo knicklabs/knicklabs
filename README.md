@@ -25,7 +25,7 @@ Generally, I'm not looking to collaborate on anything at the moment and I'm happ
 
 ### 🤔 I’m looking for help with...
 
-I could use some help with builing accessible user experiences in web and mobile apps. If you have advice or resources, please send them my way.
+I could use some help with building accessible user experiences in web and mobile apps. If you have advice or resources, please send them my way.
 
 ### 💬 Ask me about...
 
