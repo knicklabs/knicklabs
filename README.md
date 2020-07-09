@@ -29,8 +29,6 @@ I could use some help with building accessible user experiences in web and mobil
 
 ### 💬 Ask me about...
 
-Here are some ideas about things you can ask me about:
-
 - Web and mobile app development
 - JavaScript and TypeScript in the browser and on the server
 - React and React Native
