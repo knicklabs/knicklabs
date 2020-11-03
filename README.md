@@ -47,5 +47,5 @@ He/him
 
 ### ⚡ Fun fact...
 
-I used to play in a metal band. It was semi-serious but nothing came from it other than good times and a whole in my wallet. We did once get to play a show with Alexisonfire (in their early days). We also got to play a show with Voivod (in their latter days).
+I used to play in a metal band. It was semi-serious but nothing came from it other than good times and a hole in my wallet. We did once get to play a show with Alexisonfire (in their early days). We also got to play a show with Voivod (in their latter days).
 
