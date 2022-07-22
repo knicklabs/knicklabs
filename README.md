@@ -27,7 +27,7 @@ I want to create inclusive products and experiences. If you have knowledge, expe
 - Web and mobile app development
 - JavaScript, TypeScript, and React (in the browser and on the server)
 - Ruby/Rails, PHP/Laravel, Python (but not Django/Flask)
-- Accessibility
+- Accessibility and universal design
 - Remote work
 - Software engineering and career development
 - Software development as a second career
