@@ -20,7 +20,7 @@ If something I've said here interests you, please feel free to reach out and ask
 
 ### 🤔 I’m looking for help with...
 
-I want to create inclusive products and experiences. If you have knowledge, experience, advice, resources, etc. regarding accessibility and universal design, please send them away (or say hi)!
+I want to create inclusive products and experiences. If you have knowledge, experience, advice, resources, etc. regarding accessibility and universal design, please send them my way (or say hi)!
 
 ### 💬 Ask me about...
 
