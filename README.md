@@ -6,7 +6,7 @@ I'm Nickolas. I enjoy collaborating with others to make dependable software and 
 
 I am a Technical Lead and Staff Software Engineer at Help Scout where I am currently working on the cross-functional Docs Team, which is responsible for building and maintaining tools for our users to create and publish knowledge bases.
 
-I am a collaborator on the Ready2Work Research Project. Our multidisciplinary team was awarded a 2019 Child-Bright KT Innovation Incubator Grant to develop a pilot online employment readiness platform for self-advocates with Autistism Spectrum Disorder (ASD), their families, and professionals who operate programs for people with ASD.
+I am a collaborator on the Ready2Work Research Project. Our multidisciplinary team was awarded a 2019 Child-Bright KT Innovation Incubator Grant to develop a pilot online employment readiness platform for self-advocates with Autism Spectrum Disorder (ASD), their families, and professionals who operate programs for people with ASD.
 
 ### 🌱 I’m currently learning...
 
