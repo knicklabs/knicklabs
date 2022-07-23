@@ -14,7 +14,7 @@ I've been working on completing the B.Sc. Degree I started and left ten years ag
 
 ### 👯 I’m looking to collaborate on...
 
-I had a non-traditional path to working in tech and am happy to talk to anyone looking to break into tech, especially those coming from a non-traditional background. I know how hard it can be to beleive in yourself and find your way.
+I had a non-traditional path to working in tech and am happy to talk to anyone looking to break into tech, especially those coming from a non-traditional background. I know how hard it can be to believe in yourself and find your way.
 
 If something I've said here interests you, please feel free to reach out and ask questions.
 
