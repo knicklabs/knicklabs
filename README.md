@@ -4,33 +4,30 @@ I'm Nickolas. I enjoy collaborating with others to make dependable software and 
 
 ### 🔭 I'm currently working on...
 
-I am a Technical Lead and Staff Software Engineer at Help Scout where I am currently working on the cross-functional Docs Team, which is responsible for building and maintaining tools for our users to create and publish knowledge bases.
-
-I am a collaborator on the Ready2Work Research Project. Our multidisciplinary team was awarded a 2019 Child-Bright KT Innovation Incubator Grant to develop a pilot online employment readiness platform for self-advocates with Autism Spectrum Disorder (ASD), their families, and professionals who operate programs for people with ASD.
+I am a Technical Lead and Staff Software Engineer on the Growth Team at Help Scout.
 
 ### 🌱 I’m currently learning...
 
-I've been working on completing the B.Sc. Degree I started and left ten years ago. I am studying Computer Science and have recently taken courses in mathematics, artificial intelligence, and computer architecture and networking. I've really enjoyed expanding my horizons beyond the type of software engineering I do day-to-day. There are whole other areas of the field to enjoy, and apply back to my work.
+I am an incoming student in the Master of Science in Computer Science program at Georgia Tech. My interests are in human-computer interaction and artificial intelligence.
 
 ### 👯 I’m looking to collaborate on...
 
-I had a non-traditional path to working in tech and am happy to talk to anyone looking to break into tech, especially those coming from a non-traditional background. I know how hard it can be to believe in yourself and find your way.
+I am happy to talk with anyone looking to make a career for themself in tech, especially if coming from a non-CS background. I myself started working in software development without a formal CS education.
 
-If something I've said here interests you, please feel free to reach out and ask questions.
+I am interested in research in AI-human interaction, user interfaces, and accessible technology.
 
 ### 🤔 I’m looking for help with...
 
-I want to create inclusive products and experiences. If you have knowledge, experience, advice, resources, etc. regarding accessibility and universal design, please send them my way (or say hi)!
+I want to create inclusive products and experiences. If you have knowledge, experience, advice, or resources on accessibility and universal design, please share (or say hi)! 
 
 ### 💬 Ask me about...
 
 - Web and mobile app development
-- JavaScript, TypeScript, and React (in the browser and on the server)
-- Ruby/Rails, PHP/Laravel, Python (but not Django/Flask)
 - Accessibility and universal design
 - Remote work
 - Software engineering and career development
 - Software development as a second career
+- Succeeding as a mature student
 
 ### 📫 How to reach me...
 
